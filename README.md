@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaAlice00&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAlice00&layout=compact)](https://github.com/MariaAlice00/github-readme-stats)
-
-<!--feito-->
+<div>
+  <a href="https://github.com/MariaAlice00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaAlice00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAlice00&layout=compact&theme=dracula"/>
+</div>
